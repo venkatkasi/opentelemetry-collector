@@ -57,7 +57,7 @@ multiple open-source or commercial back-ends.
 
 Objectives:
 
-- Venkat123456789
+- Venkat123456
 - Usable: Reasonable default configuration, supports popular protocols, runs and collects out of the box.
 - Performant: Highly stable and performant under varying loads and configurations.
 - Observable: An exemplar of an observable service.
